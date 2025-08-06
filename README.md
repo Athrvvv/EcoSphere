@@ -9,6 +9,7 @@ A minimal yet powerful social space for developers, students, and tech enthusias
 ## 🛠️ Stack Used
 
 ### Frontend
+
 - **React + Vite**
 - **Tailwind CSS**
 - **Framer Motion**
@@ -16,6 +17,7 @@ A minimal yet powerful social space for developers, students, and tech enthusias
 - **Firebase Auth + Firestore**
 
 ### Backend
+
 - **Node.js + Express**
 - **@google/generative-ai SDK** for hashtag suggestions (Gemini API)
 
@@ -33,21 +35,22 @@ A minimal yet powerful social space for developers, students, and tech enthusias
 
 ## 📸 Previews
 
-![Screenshot](Screenshot 2025-08-07 042556.png)
+![Screenshot](assets/screenshots/Screenshot 2025-08-07 042556.png)
 
-![Screenshot](Screenshot 2025-08-07 042606.png)
+![Screenshot](assets/screenshots/Screenshot 2025-08-07 042606.png)
 
-![Screenshot](Screenshot 2025-08-07 042622.png)
+![Screenshot](assets/screenshots/Screenshot 2025-08-07 042622.png)
 
-![Screenshot](Screenshot 2025-08-07 042633.png)
+![Screenshot](assets/screenshots/Screenshot 2025-08-07 042633.png)
 
-![Screenshot](Screenshot 2025-08-07 042653.png)
+![Screenshot](assets/screenshots/Screenshot 2025-08-07 042653.png)
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
+
 - Node.js v18+
 - Firebase Project with Firestore & Auth enabled
 - Gemini API Key (from [Google AI Studio](https://makersuite.google.com/))
@@ -69,6 +72,7 @@ touch .env
 ```
 
 `.env` (inside `/client`):
+
 ```
 VITE_FIREBASE_API_KEY=your_key
 VITE_FIREBASE_AUTH_DOMAIN=...
@@ -89,12 +93,14 @@ touch .env
 ```
 
 `.env` (inside `/server`):
+
 ```
 GEMINI_API_KEY=your_google_gemini_api_key
 PORT=5000
 ```
 
 Start the server:
+
 ```bash
 node server.js
 ```
