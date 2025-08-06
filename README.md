@@ -35,15 +35,15 @@ A minimal yet powerful social space for developers, students, and tech enthusias
 
 ## 📸 Previews
 
-![Screenshot](client/src/assets/SS/Screenshot 2025-08-07 042556.png)
+![Screenshot1](client/src/assets/SS/Screenshot 2025-08-07 042556.png)
 
-![Screenshot](client/src/assets/SS/Screenshot 2025-08-07 042606.png)
+![Screenshot2](client/src/assets/SS/Screenshot 2025-08-07 042606.png)
 
-![Screenshot](client/src/assets/SS/Screenshot 2025-08-07 042622.png)
+![Screenshot3](client/src/assets/SS/Screenshot 2025-08-07 042622.png)
 
-![Screenshot](client/src/assets/SS/Screenshot 2025-08-07 042633.png)
+![Screenshot4](client/src/assets/SS/Screenshot 2025-08-07 042633.png)
 
-![Screenshot](client/src/assets/SS/Screenshot 2025-08-07 042653.png)
+![Screenshot5](client/src/assets/SS/Screenshot 2025-08-07 042653.png)
 
 ---
 
